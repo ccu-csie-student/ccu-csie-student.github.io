@@ -33,9 +33,9 @@ title: Home
 
 繳費地點：資工系學會辦（資工館B1，003A教室）
 
-報名表單：https://forms.gle/p8G7drifCmSqEwLk9
+報名表單：[https://forms.gle/p8G7drifCmSqEwLk9](https://forms.gle/p8G7drifCmSqEwLk9)
 
-點歌表單：https://forms.gle/UndUa8eMty3rUZTY7
+點歌表單：[https://forms.gle/UndUa8eMty3rUZTY7](https://forms.gle/UndUa8eMty3rUZTY7)
 
 （點歌小攻略點開表單就可以看到囉！）
 
