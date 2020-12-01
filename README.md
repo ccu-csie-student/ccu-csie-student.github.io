@@ -1,5 +1,4 @@
 ---
-layout: post
 title: 中正資工系學會
 ---
 
