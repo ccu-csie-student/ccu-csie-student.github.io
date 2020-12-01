@@ -1,5 +1,5 @@
 ---
-title: 資工系學會
+title: Home
 ---
 
 ## Welcome to GitHub Pages
