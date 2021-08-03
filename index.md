@@ -11,10 +11,10 @@ title: Home
  任何有問題或是想建議都可以留喔！我們每個月會固定回覆～
 
 
-* [提問箱網址](https://reurl.cc/W3YkRy)
 
 
-* [FB連結](https://www.facebook.com/CCUCSIE)
+* [提問箱](https://peing.net/zh-TW/ccucsie)
 
+* [Facebook](https://www.facebook.com/CCUCSIE)
 
-* [IG連結](https://www.instagram.com/ccucsie/)
+* [Instagram](https://www.instagram.com/ccucsie/)
