@@ -17,7 +17,7 @@ title: Home
 
 
 
-* [提問箱](https://peing.net/zh-TW/ccucsie)
+* [提問箱]( https://reurl.cc/W3YkRy)
 
 * [Facebook](https://www.facebook.com/CCUCSIE)
 
