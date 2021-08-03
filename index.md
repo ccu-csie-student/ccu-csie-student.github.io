@@ -3,17 +3,18 @@ title: Home
 ---
 
 # About Us
-##### 嗨！我們是中正資工系學會
-##### 之後有活動的消息會公布在我們的FB、IG跟這個網站
-##### 所以就趕快到下面的網站按下追蹤吧！
-##### 另外也有匿名的提問箱
-##### 任何有問題或是想建議都可以留喔！我們每個月會固定回覆～
+
+ 嗨！我們是中正資工系學會
+ 之後有活動的消息會公布在我們的FB、IG跟這個網站
+ 所以就趕快到下面的網站按下追蹤吧！
+ 另外也有匿名的提問箱
+ 任何有問題或是想建議都可以留喔！我們每個月會固定回覆～
 
 
-[提問箱網址](https://reurl.cc/W3YkRy)
+* [提問箱網址](https://reurl.cc/W3YkRy)
 
 
-[FB連結](https://www.facebook.com/CCUCSIE)
+* [FB連結](https://www.facebook.com/CCUCSIE)
 
 
-[IG連結](https://www.instagram.com/ccucsie/)
+* [IG連結](https://www.instagram.com/ccucsie/)
