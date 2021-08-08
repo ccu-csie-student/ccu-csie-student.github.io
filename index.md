@@ -18,7 +18,9 @@ title: Home
 * [Instagram](https://www.instagram.com/ccucsie/)  
 
 
-## 學長姐的小叮嚀  
+---
+
+# 學長姐的小叮嚀  
 
 首先，先歡迎各位新生加入中正資工的大家庭！  
 
